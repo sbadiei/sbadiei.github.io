@@ -1,0 +1,35 @@
+#output{
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+button {
+
+    background-color: white;
+}
+
+.hypinput1{
+    width: 25px;
+    background-color: white;
+}
+
+.hypinputalpha{
+    width: 30px;
+    background-color: white;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
