@@ -1,0 +1,13 @@
+#output{
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+th, td {
+  padding: 0px 10px;
+}
